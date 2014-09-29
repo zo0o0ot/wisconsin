@@ -15,7 +15,7 @@ header h1{
   text-transform: uppercase;
   background: #303030 url('schoollines.png') center bottom no-repeat;
   background-size: auto 100px;
-  color:#F7DA03;
+  color:#025bac;
 }
 header h1 .container{
   padding: 80px 0;
@@ -27,7 +27,7 @@ header h1 .container{
 header h2 {
   margin:0;
   background-color: #303030;
-  background-color: #F7DA03;
+  background-color: #025bac;
   padding: 10px 20px;
   color:white;
   letter-spacing: 4px;
@@ -35,7 +35,7 @@ header h2 {
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 200;
-  color:#F7DA03;
+  color:#025bac;
   color:#000;
 }
 header h1 .what{
@@ -43,7 +43,7 @@ header h1 .what{
 }
 header h1 .where{
   padding: 6px 12px;
-  color:#F7DA03;
+  color:#025bac;
   background: #303030;
   border:3px solid white;
 }
@@ -134,7 +134,7 @@ a:hover{
   display:block;
   margin:12px 0;
   padding: 4px 10px;
-  border-left: 8px solid #F7DA03;
+  border-left: 8px solid #025bac;
   font-family: AndaleMono, courier, monospace;
 }
 .term.max{
@@ -164,13 +164,13 @@ a:hover{
   background:green;
 }
 .term .chrome .btn.min:hover{
-  background:#F7DA03;
+  background:#025bac;
 }
 
 
 .sign{
   padding: 6px 12px;
-  color:#F7DA03;
+  color:#025bac;
   background: #303030;
   border:3px solid white;
   text-transform: uppercase;
@@ -200,7 +200,7 @@ a:hover{
   }
   header h1 .where{
     padding: 6px 12px;
-    color:#F7DA03;
+    color:#025bac;
     background: #303030;
     border:3px solid white;
   }
