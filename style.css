@@ -16,7 +16,7 @@ header h1{
   font-size: 60px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  background: #F7DA03 url('node-js.svg') 98% center no-repeat;
+  background: #025bac url('node-js.svg') 98% center no-repeat;
   /*background-size: 100px auto;*/
   background-size: auto 150px;
   padding: 40px 20px;
@@ -31,7 +31,7 @@ header h2 {
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 200;
-  color:#F7DA03;
+  color: #025bac;
 
 }
 header h1 span{
@@ -39,7 +39,7 @@ header h1 span{
   /*font-size: 50px;*/
 }
 footer{
-  background: #F7DA03 url('schoollines.png') 98% center repeat-x;
+  background: #025BAC url('schoollines.png') 98% center repeat-x;
 }
 .container, section {
   max-width: 860px;
@@ -109,7 +109,7 @@ p{
   display:block;
   margin:12px 0;
   padding: 4px 10px;
-  border-left: 8px solid #F7DA03;
+  border-left: 8px solid #025bac;
   font-family: AndaleMono, courier, monospace;
 }
 .term.max{
